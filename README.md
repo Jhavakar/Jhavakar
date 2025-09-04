@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jhavakar
-- 👀 I’m interested in Software development, working in the front-end development role. As I grow I know I want to understand and learn Backend Development and become a Full Stack Developer. I know I will and aim to succeed. 
-- 💞️ I’m looking to collaborate with other people who have experience in the field and learn from them, that way I know where I am at and what I need to achieve to get to the role they are at. 
-- 📫 How to reach me through LinkedIn Jhavakar Thillainathan or email jhavakar.thillainathan@gmail.com
+- 👋 Hi, I’m Jhavakar Thillainathan 
+- 👀 I’m passionate about software development, with a strong focus on front-end development. As I progress in my career, I’m committed to expanding my knowledge in backend development to become a full-stack developer.
+- 💞️ I’m eager to collaborate with experienced professionals in the field, learn from their expertise, and gain insights into what I need to achieve to reach their level. 
+- 📫 You can reach me on LinkedIn (Jhavakar Thillainathan) or via email at jhavakar.thillainathan@gmail.com
 
 <!---
 Jhavakar/Jhavakar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
